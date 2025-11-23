@@ -1,10 +1,10 @@
 Ola! Eu sou Anthony e é um prazer ter você aqui.
 
--😁 Atualmente trabalho na area de TI do hospital dia virtude
+-😁 Atualmente trabalho na area de TI do hospital dia virtude.
 
 -🌱 Tenho superior em ADS, tecnico em TI e estou em busca da pós em engenharia e analise de dados.
 
--🤳 Contate-me no email: anthonymsantos2002@gmail.com.br
+-🤳 Contate-me no email: anthonymsantos2002@gmail.com.br.
 <div> 
   <a href="https://www.instagram.com/anthony_marlon_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:anthonymsantos2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
