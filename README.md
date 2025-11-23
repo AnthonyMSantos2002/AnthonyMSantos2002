@@ -7,8 +7,7 @@ Ola! Eu sou Anthony e é um prazer ter você aqui.
 -🤳 Contate-me no email: anthonymsantos2002@gmail.com.br.
 <div> 
   <a href="https://www.instagram.com/anthony_marlon_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anthonymsantos2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.https://www.linkedin.com/in/anthony-marlon-dos-santos-a1807b232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anthony-marlon-dos-santos-a1807b232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
