@@ -1,6 +1,6 @@
 Ola! Eu sou Anthony e é um prazer ter você aqui.
 
--😁 Atualmente trabalho na area de TI do hospital dia virtude.
+-😁 Atualmente estou fazendo minha pós em engenharia e analise de dados e busco uma oportunidade de entrar no mercado de dados para botar em pratica meus conhecimentos.
 
 -🌱 Tenho superior em ADS, tecnico em TI e estou em busca da pós em engenharia e analise de dados.
 
