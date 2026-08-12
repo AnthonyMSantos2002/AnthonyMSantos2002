@@ -25,9 +25,6 @@ Ola! Eu sou Anthony e é um prazer ter você aqui.
   <img align="center" alt="Rafa-Excel" height="30" width="40"src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg">
 
   ##
-  📊Estatisticas
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyMSantos2002&show_icons=true&theme=radical)
 
 
 
